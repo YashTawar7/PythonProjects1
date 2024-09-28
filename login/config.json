@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default_project": {
+      "mon": 8,
+      "tue": 8,
+      "wed": 8,
+      "thu": 0,
+      "fri": 0
+    },
+    "holiday_project": {
+      "mon": 0,
+      "tue": 0,
+      "wed": 0,
+      "thu": 8,
+      "fri": 8
+    }
+  }
+}
